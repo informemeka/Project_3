@@ -237,8 +237,10 @@ Move to the src folder
 - To make little adjustment to our react code. Delete the logo and  adjust our App.js, Move to the src folder
 - cd ..
 - ran the command from src folder `vi App.js`       
-- Copy and paste the code below into it 
-    ![edit App](./images/edit_Apps.js.jpg)    
+- Copy and paste the code below into it     
+
+    ![edit App](./images/edit_Apps.js.jpg)      
+       
 - In the src directory open the App.css and paste the below text  
      ![App.css](./images/edit_Apps.css.jpg)     
 
